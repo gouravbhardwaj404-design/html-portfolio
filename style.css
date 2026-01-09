@@ -1,0 +1,23 @@
+body {
+    background-color: #E6E6E6;
+}
+
+.profile-img {
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+.head > .container > h1 {
+    color: #3BC1A8;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family:  'caveat', cursive;
+}
+
+.feature > h3 {
+  background-color: #249E94;
+  font-family: 'shadow into light', cursive;
+  border: 2px solid black;
+  text-align: center;
+}
